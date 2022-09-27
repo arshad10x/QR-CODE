@@ -19,3 +19,5 @@ View [Here](https://qr-code-scss.netlify.app/)
 
 ## Screenshots
 
+![2022-09-28 (2)](https://user-images.githubusercontent.com/76579075/192614280-18c83022-459d-4c98-974b-f973bb36ed40.png)
+
