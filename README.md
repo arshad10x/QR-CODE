@@ -1,15 +1,15 @@
 # QR-CODE
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8a13401-86e6-41fd-8ef9-1a22b087124c/deploy-status)](https://app.netlify.com/sites/teal-sunburst-193f52/deploys)\
-A simple landing page for a website that books flights,hotels, tours and rents cars made using flexbox. \
+The challenge is to build out this QR code component and get it looking as close to the design as possible. \
 View [Here](https://qr-code-scss.netlify.app/)
 
 ## Learnings
 
 * Flexbox
-* CSS variables
+* SCSS variables
 * Flex Properties
-* SCSS
+
 
 ## Technology stack
 
